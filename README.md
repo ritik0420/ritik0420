@@ -15,10 +15,10 @@ I'm a passionate Frontend Software Graduate specializing in creating dynamic and
 
 Here are a few projects I've worked on:
 
-.[**Skull AI**]((https://github.com/ritik0420/Gemini-clone)) Project link:  (https://gemini-clone-pink-six.vercel.app/)
+[**Skull AI**]((https://github.com/ritik0420/Gemini-clone)) Project link:  (https://gemini-clone-pink-six.vercel.app/)
   The project was developed to demonstrate the integration of a conversational AI within a modern React application The application utilizes Google's Generative AI API to generate responses to user prompts, offering services like travel suggestions, concept summaries, team bonding ideas, and code improvements.
 
-[**CrytoCurrency**]([https://github.com/ritik0420/CrytoWeb))  Project link: (https://cryto-web.vercel.app/)
+[**CryptoCurrency**]([https://github.com/ritik0420/CrytoWeb))  Project link: (https://cryto-web.vercel.app/)
   CryptoWeb is a dynamic and responsive web application that provides users with real-time information on cryptocurrency prices and trends. Built with a modern frontend stack, including HTML, CSS, JavaScript.
 
 [**Random Password generator**]( Project link: (https://password-generator-sooty-beta.vercel.app/).)
