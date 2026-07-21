@@ -64,79 +64,103 @@ Building scalable web applications, beautiful user experiences and production-re
 
 # 🚀 Featured Projects
 
+<table>
+<tr>
+<td width="50%">
+
 ## 🌍 Paradise Yatra
+### Full Stack Travel Platform
 
-🧳 Full Stack Travel Platform
+A production-ready travel booking platform built using **Next.js, Node.js, Express.js, MongoDB, and Docker**.
 
-✨ Features
+✨ **Highlights**
 
-- 🔐 Secure Authentication
-- 🛒 Booking System
-- 🧾 Admin CMS
-- 📈 SEO Dashboard
-- ⚡ 50+ REST APIs
-- 🐳 Docker Deployment
+- 🧳 Complete Travel Booking System
+- 🔐 JWT Authentication & Authorization
+- 📝 Powerful Admin CMS
+- 📈 SEO Management Dashboard
+- 🌐 50+ REST APIs
+- ⚡ Lazy Loading & Code Splitting
+- 🐳 Docker + VPS Deployment
+- 🔒 SSL, Traefik & Domain Management
 
----
+**🛠 Tech Stack**
 
-## 🎓 InsureTech Skills LMS
+`Next.js` `Node.js` `Express` `MongoDB` `Docker`
 
-Learning Management System
+🌐 **Live:** https://paradiseyatra.com
 
-✨ Features
+</td>
 
-- 👨‍🎓 Student Dashboard
+<td width="50%">
+
+## 🎓 InsureTech Skills
+### Learning Management System
+
+Enterprise LMS built for managing students, instructors, admissions, reports and authentication.
+
+✨ **Highlights**
+
+- 👨‍🎓 Student Portal
 - 👨‍💼 Admin Dashboard
-- 🔐 Role Based Authentication
-- 📚 Course Management
-- 📊 Analytics
+- 🔐 Role-Based Authentication
+- 📚 Course & User Management
+- 📊 Analytics Dashboard
+- 👨‍👩‍👧 Parent-Student Workflows
+- ⚡ REST APIs
 - 🐳 Docker Deployment
 
----
+**🛠 Tech Stack**
 
-## 🤖 Skull AI
+`React` `Next.js` `Node.js` `MongoDB`
 
-Google Gemini AI Clone
+🌐 **Live:** https://insuretechskills.tech
 
-✨ Features
-
-- 💬 AI Chat
-- 🧠 Smart Responses
-- ✈️ Travel Planning
-- 💻 Code Generation
-- 📖 Content Summaries
-
-🔗 https://gemini-clone-pink-six.vercel.app/
+</td>
+</tr>
+</table>
 
 ---
 
-## 💬 Chatopia
+## 🏨 TripBazaar
+### Hotel & Travel Booking Platform
 
-Realtime Firebase Chat Application
+A responsive hotel booking platform developed with reusable components and modern UI/UX.
 
-✨ Features
+✨ **Highlights**
 
-- 🔥 Firebase Authentication
-- 💬 Realtime Messaging
-- 👥 Chat Rooms
-- 📱 Responsive UI
+- 🏨 Hotel Booking
+- 📍 Google Maps Integration
+- 📅 Calendar & Availability
+- 💳 GST & Invoice Generation
+- 🍽 Meal & Room Selection
+- 🎨 Responsive UI
+- 🚀 Docker Deployment
 
-🔗 https://chatopia-jpm8.onrender.com
+**🛠 Tech Stack**
 
----
+`React.js` `Node.js` `Express` `MongoDB`
 
-## 📈 CryptoWeb
+## 📚 ChildPlanner LMS
+### School Management & EdTech Platform
 
-Live Cryptocurrency Dashboard
+A comprehensive **EdTech platform** designed to streamline school management, communication, and operations. The platform includes a **web-based admin portal** and a **mobile application** for teachers, students, and parents.
 
-✨ Features
+✨ **My Contributions**
 
-- 💹 Live Prices
-- 📊 Charts
-- 🪙 Trending Coins
-- 📱 Responsive Design
+- 🎨 Developed and enhanced frontend features for the web application
+- 🔧 Implemented and improved REST API endpoints on the backend
+- 🔐 Worked on authentication and role-based access workflows
+- 👨‍👩‍👧 Contributed to parent–student management features
+- 📱 Tested mobile application functionality and validated user flows
+- 🐞 Fixed bugs, improved UI/UX, and optimized existing features
+- 🤝 Collaborated with the team to deliver production-ready releases
 
-🔗 https://cryto-web.vercel.app/
+**🛠 Tech Stack**
+
+`React` `Next.js` `React Native` `Node.js` `Express.js` `MongoDB` `JWT` `Docker`
+
+> **Role:** Frontend Developer & Full Stack Contributor
 
 ---
 
