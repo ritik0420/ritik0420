@@ -1,34 +1,195 @@
-# Hi there, I'm Ritik Kaintura 👋
+<h1 align="center">Hi 👋, I'm Ritik Kaintura</h1>
+<h3 align="center">Full Stack Developer | MERN Stack | Next.js | React.js | Node.js | Docker</h3>
 
-## About Me
+<p align="center">
+Building scalable web applications with modern technologies and clean UI/UX.
+</p>
 
-I'm a passionate Frontend Software Graduate specializing in creating dynamic and responsive web applications. With a solid foundation in HTML, CSS, JavaScript, and React, I strive to build user-centric interfaces that are both functional and aesthetically pleasing.
+---
 
-## Skills
+## 🚀 About Me
 
-- **Languages:** HTML, CSS, JavaScript, C, Python
-- **Frameworks & Libraries:** ReactJs, 
-- **Tools & Platforms:** Git, GitHub, npm, VS Code
-- **Design:** Responsive Design, UI/UX Principles, CSS Preprocessors (SASS)
+- 💻 Full Stack Developer with **1+ years of professional experience**
+- 🌱 Currently building **production-ready MERN applications**
+- ⚡ Passionate about **React, Next.js, Node.js, MongoDB & DevOps**
+- ☁️ Experienced with **Docker, AWS EC2, ECR, VPS Deployments & GitHub Actions**
+- 🎯 Love solving real-world problems through clean and scalable code
 
-## Projects
+---
 
-Here are a few projects I've worked on:
+## 🛠️ Tech Stack
 
-[**Skull AI**]((https://github.com/ritik0420/Gemini-clone)) Project link:  (https://gemini-clone-pink-six.vercel.app/)
-  The project was developed to demonstrate the integration of a conversational AI within a modern React application The application utilizes Google's Generative AI API to generate responses to user prompts, offering services like travel suggestions, concept summaries, team bonding ideas, and code improvements.
+### Frontend
+- React.js
+- Next.js
+- JavaScript (ES6+)
+- TypeScript
+- Tailwind CSS
+- Material UI
+- Framer Motion
+- Chart.js
 
- [**Full-Stack-ChatApp**]((https://chatopia-jpm8.onrender.com))Chatopia is a chat application built with React and Firebase, designed to provide a simple and user-friendly interface for real-time messaging. Users can sign in, create chat rooms, and send messages to others in the same room. The application leverages Firebase for authentication and real-time database features, ensuring that messages are instantly updated across all users connected to a room. 
+### Backend
+- Node.js
+- Express.js
+- MongoDB
+- Mongoose
+- REST APIs
+- JWT Authentication
+- Role-Based Access Control (RBAC)
 
-[**CryptoCurrency**]([https://github.com/ritik0420/CrytoWeb))  Project link: (https://cryto-web.vercel.app/)
-  CryptoWeb is a dynamic and responsive web application that provides users with real-time information on cryptocurrency prices and trends. Built with a modern frontend stack, including HTML, CSS, JavaScript.
- 
+### DevOps & Cloud
+- Docker
+- AWS EC2
+- AWS ECR
+- GitHub Actions
+- VPS Hosting
+- Traefik
+- Nginx
+- SSL/TLS
+- DNS & Domain Management
 
-## Education
+### Tools
+- Git
+- GitHub
+- Postman
+- VS Code
+- Figma
 
-- **Master’s Degree in Computer Science**, [Graphic Era Deemed University], [2024]
-- **Bachelor’s Degree in Computer Science**, [Graphic Era Deemed University], [2022]
+---
 
+## 💼 Professional Experience
 
+### Full Stack Developer & Trainer
+**InsureTech Skills** *(Dec 2025 – Present)*
 
+- Developed scalable MERN applications
+- Built secure role-based authentication systems
+- Designed REST APIs for production environments
+- Worked with Docker, AWS, GitHub Actions & VPS deployments
+- Built and enhanced LMS platforms and client projects
 
+---
+
+### Full Stack Developer
+**Paradise Yatra**
+
+- Built a complete travel booking platform
+- Developed Admin CMS & SEO dashboard
+- Created 50+ REST APIs
+- Optimized performance and production deployments
+
+---
+
+### MERN Stack Developer
+**Delonix Travels**
+
+- Developed CRM dashboards
+- Built hotel booking features
+- Integrated maps, analytics and payment workflows
+- Assisted in Docker & VPS deployments
+
+---
+
+# 🚀 Featured Projects
+
+## 🌍 Paradise Yatra
+Full Stack Travel Booking Platform built with **Next.js, Node.js, MongoDB & Docker**
+
+### Features
+- Travel Packages
+- Secure Admin Panel
+- CMS
+- SEO Dashboard
+- JWT Authentication
+- Docker Deployment
+
+---
+
+## 🎓 InsureTech Skills LMS
+
+Learning Management System with:
+
+- Student Dashboard
+- Admin Dashboard
+- Authentication
+- Role Management
+- REST APIs
+- Docker Deployment
+
+---
+
+## 🤖 Skull AI
+
+Google Gemini AI powered chatbot built with React.
+
+### Features
+
+- AI Conversations
+- Code Generation
+- Travel Suggestions
+- Content Summaries
+
+🔗 Live: https://gemini-clone-pink-six.vercel.app/
+
+---
+
+## 💬 Chatopia
+
+Realtime Chat Application using Firebase.
+
+### Features
+
+- Authentication
+- Realtime Messaging
+- Chat Rooms
+- Responsive UI
+
+🔗 Live: https://chatopia-jpm8.onrender.com
+
+---
+
+## 📈 CryptoWeb
+
+Cryptocurrency Tracker with realtime market data.
+
+### Features
+
+- Live Prices
+- Market Charts
+- Trending Coins
+- Responsive Design
+
+🔗 Live: https://cryto-web.vercel.app/
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=ritik0420&show_icons=true&theme=tokyonight" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ritik0420&theme=tokyonight" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritik0420&layout=compact&theme=tokyonight" />
+
+</p>
+
+---
+
+## 🌐 Connect with Me
+
+📧 Email: **ritik.kaintura007@gmail.com**
+
+💼 LinkedIn: https://linkedin.com/in/ritik-kaintura
+
+🌐 Portfolio: https://portfolio-mu-lemon-96.vercel.app/
+
+🐙 GitHub: https://github.com/ritik0420
+
+---
+
+<p align="center">
+⭐ If you like my work, don't forget to star my repositories!
+</p>
