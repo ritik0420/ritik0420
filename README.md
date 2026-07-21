@@ -1,195 +1,211 @@
-<h1 align="center">Hi 👋, I'm Ritik Kaintura</h1>
-<h3 align="center">Full Stack Developer | MERN Stack | Next.js | React.js | Node.js | Docker</h3>
+<h1 align="center">
+  Hi 👋, I'm Ritik Kaintura
+</h1>
+
+<h3 align="center">
+🚀 Full Stack Developer • MERN Stack • Next.js • React.js • Node.js
+</h3>
 
 <p align="center">
-Building scalable web applications with modern technologies and clean UI/UX.
+Building scalable web applications, beautiful user experiences and production-ready solutions.
+</p>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;React+%7C+Next.js+%7C+Node.js;Docker+%7C+AWS+%7C+MongoDB;Always+Learning+New+Technologies" />
 </p>
 
 ---
 
-## 🚀 About Me
+# 👨🏻‍💻 About Me
 
-- 💻 Full Stack Developer with **1+ years of professional experience**
-- 🌱 Currently building **production-ready MERN applications**
-- ⚡ Passionate about **React, Next.js, Node.js, MongoDB & DevOps**
-- ☁️ Experienced with **Docker, AWS EC2, ECR, VPS Deployments & GitHub Actions**
-- 🎯 Love solving real-world problems through clean and scalable code
+<img align="right" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
----
+✨ Full Stack Developer with **1+ years of professional experience**
 
-## 🛠️ Tech Stack
+🚀 Building production-ready applications using **MERN Stack**
 
-### Frontend
-- React.js
-- Next.js
-- JavaScript (ES6+)
-- TypeScript
-- Tailwind CSS
-- Material UI
-- Framer Motion
-- Chart.js
+🌍 Experienced in **Docker, AWS EC2, VPS & CI/CD Deployments**
 
-### Backend
-- Node.js
-- Express.js
-- MongoDB
-- Mongoose
-- REST APIs
-- JWT Authentication
-- Role-Based Access Control (RBAC)
+🎯 Passionate about creating fast, scalable and responsive applications
 
-### DevOps & Cloud
-- Docker
-- AWS EC2
-- AWS ECR
-- GitHub Actions
-- VPS Hosting
-- Traefik
-- Nginx
-- SSL/TLS
-- DNS & Domain Management
+💡 Love solving real-world business problems through clean architecture
 
-### Tools
-- Git
-- GitHub
-- Postman
-- VS Code
-- Figma
+⚡ Currently exploring **AI integrations & System Design**
 
 ---
 
-## 💼 Professional Experience
+# ⚡ Tech Stack
 
-### Full Stack Developer & Trainer
-**InsureTech Skills** *(Dec 2025 – Present)*
+### 🎨 Frontend
 
-- Developed scalable MERN applications
-- Built secure role-based authentication systems
-- Designed REST APIs for production environments
-- Worked with Docker, AWS, GitHub Actions & VPS deployments
-- Built and enhanced LMS platforms and client projects
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,tailwind,html,css,redux,vite" />
+</p>
 
----
+### ⚙️ Backend
 
-### Full Stack Developer
-**Paradise Yatra**
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" />
+</p>
 
-- Built a complete travel booking platform
-- Developed Admin CMS & SEO dashboard
-- Created 50+ REST APIs
-- Optimized performance and production deployments
+### ☁️ DevOps & Cloud
 
----
+<p>
+<img src="https://skillicons.dev/icons?i=docker,aws,githubactions,nginx" />
+</p>
 
-### MERN Stack Developer
-**Delonix Travels**
+### 🛠 Tools
 
-- Developed CRM dashboards
-- Built hotel booking features
-- Integrated maps, analytics and payment workflows
-- Assisted in Docker & VPS deployments
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,figma" />
+</p>
 
 ---
 
 # 🚀 Featured Projects
 
 ## 🌍 Paradise Yatra
-Full Stack Travel Booking Platform built with **Next.js, Node.js, MongoDB & Docker**
 
-### Features
-- Travel Packages
-- Secure Admin Panel
-- CMS
-- SEO Dashboard
-- JWT Authentication
-- Docker Deployment
+🧳 Full Stack Travel Platform
+
+✨ Features
+
+- 🔐 Secure Authentication
+- 🛒 Booking System
+- 🧾 Admin CMS
+- 📈 SEO Dashboard
+- ⚡ 50+ REST APIs
+- 🐳 Docker Deployment
 
 ---
 
 ## 🎓 InsureTech Skills LMS
 
-Learning Management System with:
+Learning Management System
 
-- Student Dashboard
-- Admin Dashboard
-- Authentication
-- Role Management
-- REST APIs
-- Docker Deployment
+✨ Features
+
+- 👨‍🎓 Student Dashboard
+- 👨‍💼 Admin Dashboard
+- 🔐 Role Based Authentication
+- 📚 Course Management
+- 📊 Analytics
+- 🐳 Docker Deployment
 
 ---
 
 ## 🤖 Skull AI
 
-Google Gemini AI powered chatbot built with React.
+Google Gemini AI Clone
 
-### Features
+✨ Features
 
-- AI Conversations
-- Code Generation
-- Travel Suggestions
-- Content Summaries
+- 💬 AI Chat
+- 🧠 Smart Responses
+- ✈️ Travel Planning
+- 💻 Code Generation
+- 📖 Content Summaries
 
-🔗 Live: https://gemini-clone-pink-six.vercel.app/
+🔗 https://gemini-clone-pink-six.vercel.app/
 
 ---
 
 ## 💬 Chatopia
 
-Realtime Chat Application using Firebase.
+Realtime Firebase Chat Application
 
-### Features
+✨ Features
 
-- Authentication
-- Realtime Messaging
-- Chat Rooms
-- Responsive UI
+- 🔥 Firebase Authentication
+- 💬 Realtime Messaging
+- 👥 Chat Rooms
+- 📱 Responsive UI
 
-🔗 Live: https://chatopia-jpm8.onrender.com
+🔗 https://chatopia-jpm8.onrender.com
 
 ---
 
 ## 📈 CryptoWeb
 
-Cryptocurrency Tracker with realtime market data.
+Live Cryptocurrency Dashboard
 
-### Features
+✨ Features
 
-- Live Prices
-- Market Charts
-- Trending Coins
-- Responsive Design
+- 💹 Live Prices
+- 📊 Charts
+- 🪙 Trending Coins
+- 📱 Responsive Design
 
-🔗 Live: https://cryto-web.vercel.app/
+🔗 https://cryto-web.vercel.app/
 
 ---
 
-## 📊 GitHub Stats
+# 📈 GitHub Analytics
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ritik0420&show_icons=true&theme=tokyonight" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ritik0420&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ritik0420&theme=tokyonight" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritik0420&layout=compact&theme=tokyonight&hide_border=true"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritik0420&layout=compact&theme=tokyonight" />
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ritik0420&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-## 🌐 Connect with Me
+# 🏆 GitHub Trophies
 
-📧 Email: **ritik.kaintura007@gmail.com**
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=ritik0420&theme=tokyonight&no-frame=true&row=1&column=6"/>
+</p>
 
-💼 LinkedIn: https://linkedin.com/in/ritik-kaintura
+---
 
-🌐 Portfolio: https://portfolio-mu-lemon-96.vercel.app/
+# 📊 Contribution Graph
 
-🐙 GitHub: https://github.com/ritik0420
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ritik0420&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="mailto:ritik.kaintura007@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/ritik-kaintura">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://portfolio-mu-lemon-96.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
+</a>
+
+<a href="https://github.com/ritik0420">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
 
 ---
 
 <p align="center">
-⭐ If you like my work, don't forget to star my repositories!
+
+### 💙 Thanks for visiting!
+
+<img src="https://komarev.com/ghpvc/?username=ritik0420&label=Profile+Views&color=0e75b6&style=flat"/>
+
+⭐ **If you like my work, consider giving a star to my repositories!**
+
 </p>
